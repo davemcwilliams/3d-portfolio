@@ -1,0 +1,18 @@
+{
+  "id": "https://davemcwilliams.github.io/3d-portfolio/collection/index.json",
+  "type": "Collection",
+  "label": "collection",
+  "members": [
+    {
+      "id": "https://davemcwilliams.github.io/3d-portfolio/collection/pub/index.json",
+      "type": "Manifest",
+      "label": "Abbott Pub",
+      "thumbnail": [
+        {
+          "id": "https://davemcwilliams.github.io/3d-portfolio/collection/pub/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    }
+  ]
+}
